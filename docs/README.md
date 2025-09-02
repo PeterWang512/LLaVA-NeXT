@@ -14,4 +14,10 @@ Welcome to the LLaVA-NeXT documentation. This guide provides an overview of the 
 
 5. [LLaVA-NeXT Overview](LLaVA-NeXT.md): Read a comprehensive overview of the LLaVA-NeXT project, including its architecture, features, and capabilities.
 
+## Training and Data
+
+6. [Data Loading Guide](data_loading_guide.md): Comprehensive guide to understanding how data is loaded and processed during training time.
+
+7. [Data Loading Overview](data_loading_overview.md): Quick overview of the data loading pipeline and key components.
+
 These documents provide in-depth information on various aspects of LLaVA-NeXT. Please refer to them for detailed explanations, implementation details, and usage instructions.
